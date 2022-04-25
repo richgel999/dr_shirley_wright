@@ -4,7 +4,7 @@ This repo contains public record evidence showing the academic and educational a
 
 Her full legal name was "Shirley Jean Wright". The sources for her middle name are numerous: Her Stanfill Funeral Home obituary, this is the full name+middle name recorded on her gavestone at Flagler Memorial Park, numerous Miami Herald newspaper references mentioning her full-name, Barry College student newspapers, faculty references, Florida Academy of Sciences Vol. 36 Fall 1973 list mentioning her full name+middle name and her address at the Tropicair Hotel, etc. 
 
-She was born on Augest 19, 1929 in Boston, MA, and spent her childhood in Chicago, IL. Sources: obituary, US census records, newspaper records, 1930 United States Federal Census records.
+She was born on Augest 19, 1929 in Boston, MA, and spent her childhood in Chicago, IL before moving to Miami Beach, FL and attending school at [St. Patrick's Catholic High School](https://stpatrickmiamibeach.com/school/history/) in 1942. Sources: obituary, newspaper records, 1930 United States Federal Census records, school yearbook picture with her full name.
 
 She died on July 1, 2015 in Miami, FL. (Sources: Miami Herald and Stanfill Funeral Home obituaries.
 
