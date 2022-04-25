@@ -2,9 +2,7 @@
 
 This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD.
 
-Her full name was "Shirley Jean Wright" (source: obituary from the Stanfill Funeral Home, July 1 2015, and this is the full name recorded on her gavestone at Flagler Memorial Park)<br>
-She was born on Augest 19, 1929 in Boston, MA, and spent her childhood in Chicago, IL. (Sources: obituary, US census records, newspaper records.)<br>
-She died on July 1, 2015 in Miami, FL. (Sources: Miami Herald and Stanfill Funeral Home obituaries.)
+Her full name was "Shirley Jean Wright" (source: obituary from the Stanfill Funeral Home, July 1 2015, this is the full name recorded on her gavestone at Flagler Memorial Park, numerous newspaper references, Barry College student newspapers, faculty references, 1930 United States Federal Census, etc.). She was born on Augest 19, 1929 in Boston, MA, and spent her childhood in Chicago, IL. (Sources: obituary, US census records, newspaper records.) She died on July 1, 2015 in Miami, FL. (Sources: Miami Herald and Stanfill Funeral Home obituaries.)
 
 - July 1, 2015: [Obituary from the Stanfill Funeral Home](https://www.stanfillfh.com/tributes/Shirley-Wright), 10545 South Dixie Hwy, Miami, FL 33156:<br>
 "Welcome to the memorial page for Shirley Jean Wright August 19, 1929 ~ July 1, 2015 (age 85)"<br>
