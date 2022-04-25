@@ -8,7 +8,7 @@ This repo contains public record evidence showing the academic and educational a
 "SERVICE - Friday - July 10, 2015 - 1:00 PM to TBD - St. Martha Catholic Church - 9221 Biscayne Boulevard - Miami Shores, FL 31338"
 
 Screenshots of obituary from Stanfill Funeral Home, showing her full legal name and birth/death dates:<br>
-<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_jean_wright_obituary2.png" alt="drawing" width="512"/>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_jean_wright_obituary4.png" alt="drawing" width="512"/>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_jean_wright_obituary3.png" alt="drawing" width="512"/>
 
 - July 5, 2015: [Obituary from the Miami Herald](https://www.legacy.com/us/obituaries/herald/name/shirley-wright-obituary?id=12737429):<br>
