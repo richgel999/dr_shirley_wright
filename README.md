@@ -1,6 +1,6 @@
-# Dr. Shirley Jean Wright PhD - Born August 19, 1929, Died July 1, 2015 - A student of Dr. Albert Einstein at Princeton, NJ in the Summer of 1947
+# Dr. Shirley Jean Wright PhD - 8/19/1929-7/1/2015
 
-This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD.
+This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD, a student of Dr. Albert Einstein at Princeton, NJ in the Summer of 1947.
 
 Her full legal name was "Shirley Jean Wright". The sources for her middle name are numerous: Her Stanfill Funeral Home obituary, this is the full name+middle name recorded on her gavestone at Flagler Memorial Park, numerous Miami Herald newspaper references mentioning her full-name, Barry College student newspapers, faculty references, Florida Academy of Sciences Vol. 36 Fall 1973 list mentioning her full name+middle name and her address at the Tropicair Hotel, etc. 
 
