@@ -21,3 +21,6 @@ Screenshots of obituary from legacy.com, showing her name, birth/death dates, an
 - August 26, 2016: Video of the demolition of the Tropicair Hotel Miami Beach, by [Miami Herald Journalist Joey Flechas](https://www.facebook.com/joeyflechas):<br>
 https://www.youtube.com/watch?v=PZurCREHyZU
 
+Screenshot of video:
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/tropicair_hotel_demolition_2016.png" alt="drawing" width="512"/>
+
