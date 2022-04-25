@@ -8,7 +8,7 @@ She was born on Augest 19, 1929 in Boston, MA, and spent her childhood in Chicag
 
 She died on July 1, 2015 in Miami, FL. (Sources: Miami Herald and Stanfill Funeral Home obituaries.
 
-- Miami-Dade College - "Under Construction - Twenty-Five Years of Miami-Dade Community College" - Employee listing with her full name on page 201 (last page):<br>
+- 1985: Miami-Dade College - "Under Construction - Twenty-Five Years of Miami-Dade Community College - 1960-1985" - Employee listing with her full name on page 201 (last page):<br>
 https://www.mdc.edu/archives/assets/college_documents_page/9.underconstruction.pdf<br>
 
 Screenshot:<br>
