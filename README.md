@@ -61,7 +61,7 @@ Screenshot:<br>
 
 - 1942: Miami Beach Senior High School Class Yearbook Photo (full name with picture), section "7A-5"
 
-https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo.jpg
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo.jpg" alt="drawing" width="512"/>
 
 - July 1, 2015: [Obituary from the Stanfill Funeral Home](https://www.stanfillfh.com/tributes/Shirley-Wright), 10545 South Dixie Hwy, Miami, FL 33156:<br>
 "Welcome to the memorial page for Shirley Jean Wright August 19, 1929 ~ July 1, 2015 (age 85)"<br>
