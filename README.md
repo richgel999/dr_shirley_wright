@@ -36,6 +36,11 @@ Note her mother's middle name is incorrectly listed by ancestry.com's digital re
 Newspapers.com clipping:<br>
 https://www.newspapers.com/clip/100528452/tropicair-hotel-legal-notice/
 
+"LEGAL NOTICE - Notices of intention to register in compliance with the House
+Bill No. 1175, Chapter No. 20953, Laws of Florida, 1941 - TROPICAIR HOTEL, 880
+Everglades Concourse, M.B. Marie A. Buckel, Murray B. and Marcella G. Wright,
+owners."
+
 ### Dec. 14, 1941 - Tropicair Hotel construction announced in the Miami Herald
 
 Newspapers.com clipping:<br>
