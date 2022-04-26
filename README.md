@@ -86,7 +86,7 @@ External link:<br>
 https://eguides.barry.edu/ld.php?content_id=19799742
 
 Screenshot:<br>
-https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_may_1952.png
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_may_1952.png" alt="drawing" width="768"/>
 
 ### 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
 https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
