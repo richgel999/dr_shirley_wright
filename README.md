@@ -1,12 +1,16 @@
-# Dr. Shirley Jean Wright PhD - Born August 19, 1929, Died July 1, 2015 - A student of Dr. Albert Einstein at Princeton, NJ in the Summer of 1947
+# Dr. Shirley Jean Wright PhD - 8/19/1929-7/1/2015
 
-This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD.
+This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD, a student of Dr. Albert Einstein at Princeton, NJ in the Summer of 1947.
 
-Her full legal name was "Shirley Jean Wright". The sources for her middle name are numerous: Her Stanfill Funeral Home obituary, this is the full name+middle name recorded on her gavestone at Flagler Memorial Park, numerous Miami Herald newspaper references mentioning her full-name, Barry College student newspapers, faculty references, Florida Academy of Sciences Vol. 36 Fall 1973 list mentioning her full name+middle name and her address at the Tropicair Hotel, etc. 
+## Basics: Full Name, Birth Date/Location and Death Date/Location
 
-She was born on Augest 19, 1929 in Boston, MA, and spent her childhood in Chicago, IL. Sources: obituary, US census records, newspaper records, 1930 United States Federal Census records.
+Her full legal name was "Shirley Jean Wright". The sources for her middle name are numerous: Her [Stanfill Funeral Home obituary](https://www.stanfillfh.com/tributes/Shirley-Wright), this is the full name+middle name recorded on her [gavestone at Flagler Memorial Park](https://billiongraves.com/grave/Shirley-Jean-Wright/31371215), numerous Miami Herald newspaper references mentioning her full-name and her address at the [Tropicair Hotel](https://www.change.org/p/estate-of-save-the-tropicair-stop-demolition-of-880-71st-street), [Barry College](https://en.wikipedia.org/wiki/Barry_University#Beginnings) [student newspapers](https://eguides.barry.edu/c.php?g=456648&p=3122505), [faculty references](https://www.mdc.edu/archives/assets/college_documents_page/9.underconstruction.pdf), [her chemistry M.S. dissertation](https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html), [Florida Academy of Sciences Vol. 36 Fall 1973](https://www.jstor.org/stable/24319475?read-now=1&seq=13) list mentioning her full name+middle name and her address at the Tropicair Hotel, etc. 
 
-She died on July 1, 2015 in Miami, FL. (Sources: Miami Herald and Stanfill Funeral Home obituaries.
+She was born on August 19, 1929 in Boston, MA, and spent her childhood in Chicago, IL before moving to Miami Beach, FL and attending school at [St. Patrick's Catholic School](https://stpatrickmiamibeach.com/school/history/) in 1942-1947. Sources: obituary, newspaper records, 1930 and 1940 United States Federal Census records, school yearbook picture with her full name.
+
+She died on July 1, 2015 in Miami, FL. Sources: Miami Herald and Stanfill Funeral Home obituaries.
+
+## Timeline of Evidence
 
 - 1985: Miami-Dade College - "Under Construction - Twenty-Five Years of Miami-Dade Community College - 1960-1985" - Employee listing with her full name on page 201 (last page):<br>
 https://www.mdc.edu/archives/assets/college_documents_page/9.underconstruction.pdf<br>
