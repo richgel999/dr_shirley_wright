@@ -67,6 +67,17 @@ Zoomed in:<br>
 Zoomed out:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo2.png" alt="drawing" width="512"/>
 
+### Feb. 1951: "Angelicus" Barry College Newspaper, 'Campus Leaders Nominated To Collegiate "Who's Who"'
+
+Here's the [local copy](https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951.pdf).
+
+External link:<br>
+https://eguides.barry.edu/ld.php?content_id=19799688
+
+Screenshots:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_1.png" alt="drawing" width="768"/>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_2.png" alt="drawing" width="768"/>
+
 ### 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
 https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
 
