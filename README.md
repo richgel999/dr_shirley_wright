@@ -83,6 +83,17 @@ Screenshots of obituary from legacy.com, showing her name, birth/death dates, an
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_wright_obituary2.png" alt="drawing" width="768"/>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_wright_obituary3.png" alt="drawing" width="768"/>
 
+- 2016: "Save the Tropicair: Stop Demolition of 880 71st Street"
+
+change.org link:<br>
+https://www.change.org/p/estate-of-save-the-tropicair-stop-demolition-of-880-71st-street
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/save_the_tropicair3.png" alt="drawing" width="768"/>
+
+One of the sponsors was "Shirley Jean Wright Estate":<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/save_the_tropicair5.png" alt="drawing" width="768"/>
+
 - August 26, 2016: Video of the demolition of the Tropicair Hotel Miami Beach, by [Miami Herald Journalist Joey Flechas](https://www.facebook.com/joeyflechas):<br>
 https://www.youtube.com/watch?v=PZurCREHyZU
 
