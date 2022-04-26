@@ -27,6 +27,14 @@ Screenshot:<br>
 
 The hotel's address, "880 Everglades Concourse, Normandy Isle, Miami Beach" matches the adddress that appeared with Shirley Jean Wright's numerous newspaper and Florida Academy of Science listings. The names listed as the owners, Mr. and Mrs. Murray B. Wright (her parents), match Shirley Jean Wright's census records. The other co-owner, "A. Buckel", has the same last name as Shirley's mother (Marcella G. Buckel, 1894-1978) according to census records.
 
+- Dec. 21, 1941: Tropicair Hotel near completion
+
+Newspapers.com clipping:<br>
+https://www.newspapers.com/clip/100528586/tropicair-hotel-near-completiondr-shir/
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_news_dec_21_1941_topicair_near_completion.png" alt="drawing" width="768"/>
+
 - 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
 https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
 
