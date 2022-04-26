@@ -23,6 +23,13 @@ This tree shows her brother, her mother's full mainden name, and her father's na
 From Ancestry.com:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/1930_census.png" alt="drawing" width="512"/>
 
+### 1940 Census Records
+
+This census record lists her middle name starting with the letter "J". Note her mother's middle name is listed by ancestry.com as starting with the letter "J". If you read the actual cursive writing it's actually the expected letter "G".
+
+From Ancestry.com:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/1940_census.png" alt="drawing" width="512"/>
+
 ### Nov. 8, 1941: Tropicair Hotel legal announcement<br>
 
 Newspapers.com clipping:<br>
