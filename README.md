@@ -25,10 +25,10 @@ From Ancestry.com:<br>
 
 ### 1940 Census Records
 
-From Ancestry.com:<br>
+Ancestry.com's census record lists Dr. Shirley's middle name as starting with the correct letter "J":<br> 
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/1940_census.png" alt="drawing" width="512"/>
 
-This census record lists her middle name starting with the letter "J". Note her mother's middle name is listed by ancestry.com as starting with the letter "J". If you read the actual cursive writing it's actually the expected letter "G".<br>
+Note her mother's middle name is incorrectly listed by ancestry.com's digital record as starting with the letter "J". If you read the original cursive writing it's actually the expected letter "G".<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/1940_census2.png" alt="drawing" width="512"/>
 
 ### Nov. 8, 1941: Tropicair Hotel legal announcement<br>
