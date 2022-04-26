@@ -25,7 +25,7 @@ From Ancestry.com:<br>
 
 ### 1940 Census Records
 
-Ancestry.com's census record lists Dr. Shirley's middle name as starting with the correct letter "J":<br> 
+Ancestry.com's census record has Dr. Wright's middle name starting with the correct letter "J":<br> 
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/1940_census.png" alt="drawing" width="512"/>
 
 Note her mother's middle name is incorrectly listed by ancestry.com's digital record as starting with the letter "J". If you read the original cursive writing it's actually the expected letter "G".<br>
