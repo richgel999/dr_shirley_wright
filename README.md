@@ -12,12 +12,12 @@ She died on July 1, 2015 in Miami, FL. Sources: Miami Herald and Stanfill Funera
 
 ## Timeline of Evidence
 
-- Nov. 8, 1941: Tropicair Hotel legal announcement<br>
+### Nov. 8, 1941: Tropicair Hotel legal announcement<br>
 
 Newspapers.com clipping:<br>
 https://www.newspapers.com/clip/100528452/tropicair-hotel-legal-notice/
 
-- Dec. 14, 1941 - Tropicair Hotel construction announced in the Miami Herald
+### Dec. 14, 1941 - Tropicair Hotel construction announced in the Miami Herald
 
 Newspapers.com clipping:<br>
 https://www.newspapers.com/clip/100527880/dr-shirley-jean-wrights-parents-hotel/
