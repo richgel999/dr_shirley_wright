@@ -1,4 +1,4 @@
-# Dr. Shirley Jean Wright PhD - 8/19/1929-7/1/2015
+# Dr. Shirley Jean Wright PhD - 8/19/1929 - 7/1/2015
 
 This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD, a student of Dr. Albert Einstein at Princeton, NJ in the Summer of 1947.
 
