@@ -18,6 +18,11 @@ This tree shows her brother, her mother's full mainden name, and her father's na
 
 ## Timeline of Evidence
 
+### 1930 Census Records
+
+From Ancestry.com:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/1930_census.png" alt="drawing" width="512"/>
+
 ### Nov. 8, 1941: Tropicair Hotel legal announcement<br>
 
 Newspapers.com clipping:<br>
