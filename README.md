@@ -27,7 +27,7 @@ Screenshot:<br>
 
 The hotel's address, "880 Everglades Concourse, Normandy Isle, Miami Beach" matches the adddress that appeared with Shirley Jean Wright's numerous newspaper and Florida Academy of Science listings. The names listed as the owners, Mr. and Mrs. Murray B. Wright (her parents), match Shirley Jean Wright's census records. The other co-owner, "A. Buckel", has the same last name as Shirley's mother (Marcella G. Buckel, 1894-1978) according to census records.
 
-- Dec. 21, 1941: Tropicair Hotel near completion
+### Dec. 21, 1941: Tropicair Hotel near completion
 
 Newspapers.com clipping:<br>
 https://www.newspapers.com/clip/100528586/tropicair-hotel-near-completiondr-shir/
@@ -43,7 +43,7 @@ Zoomed in:<br>
 Zoomed out:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo2.png" alt="drawing" width="512"/>
 
-- 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
+### 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
 https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
 
 Screenshot:<br>
@@ -61,7 +61,7 @@ https://www.newspapers.com/clip/100527364/dr-shirley-wrights-ms-thesis/
 Newspaper screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_5_jun_1955_master_of_science.png" alt="drawing" width="768"/>
 
-- Sept. 12 1973: "Membership List: Florida Academy of Sciences", Florida Scientist Vol. 36, No. 2/4 (Spring, Summer, Fall 1973), pp. 236-248 (13 pages)
+### Sept. 12 1973: "Membership List: Florida Academy of Sciences", Florida Scientist Vol. 36, No. 2/4 (Spring, Summer, Fall 1973), pp. 236-248 (13 pages)
 
 This reference lists her full name ("Shirley Jean Wright") and her address at "Tropicair Hotel, P.O. Box 4552, Miami Beach FL 33141"
 
@@ -71,13 +71,13 @@ https://www.jstor.org/stable/24319475?read-now=1&seq=13
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/florida_academy_of_sciences.png" alt="drawing" width="768"/>
 
-- 1985: Miami-Dade College - "Under Construction - Twenty-Five Years of Miami-Dade Community College - 1960-1985" - Employee listing with her full name on page 201 (last page):<br>
+### 1985: Miami-Dade College - "Under Construction - Twenty-Five Years of Miami-Dade Community College - 1960-1985" - Employee listing with her full name on page 201 (last page):<br>
 https://www.mdc.edu/archives/assets/college_documents_page/9.underconstruction.pdf<br>
 
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/mdcc_employee_listing.png" alt="drawing" width="768"/>
 
-- July 1, 2015: [Obituary from the Stanfill Funeral Home](https://www.stanfillfh.com/tributes/Shirley-Wright), 10545 South Dixie Hwy, Miami, FL 33156:<br>
+### July 1, 2015: [Obituary from the Stanfill Funeral Home](https://www.stanfillfh.com/tributes/Shirley-Wright), 10545 South Dixie Hwy, Miami, FL 33156:<br>
 "Welcome to the memorial page for Shirley Jean Wright August 19, 1929 ~ July 1, 2015 (age 85)"<br>
 "WRIGHT, Shirley, devoted daughter, 85, passed away July 1, 2015.  She was born in Boston, MA and spent her childhood in Chicago, IL. As a teenager she moved to Miami Beach, where her parents built the Tropicaire Hotel, which she later operated for many years. She was a dedicated teacher and scientist, earning PhDs in Physical Chemistry and Physical Science.  She was a chemistry professor at MDCC for over 50 years. She was a student of Dr. Albert Einstein at Princeton. Shirley taught at the University of Miami and Barry College and was also an instructor at JMH School of Nursing and Hialeah High School. She was the first female president of the MDCC Faculty Senate. She was a member of the Dominican Sisters Third Order.  For over 50 years, Shirley donated scholarships to students for excellence in the sciences.  A generous person, she supported many charities and helped friends in need. Mass of Christian Burial will be held at 1pm on Friday, July 10 at St. Martha Catholic Church, 9221 Biscayne Blvd., Miami Shores, FL 33138. Interment will follow at Flagler Memorial Park. In lieu of flowers, the family asks that contributions be made to St. Jude Children's Hospital in Shirley's memory."<br>
 "SERVICE - Friday - July 10, 2015 - 1:00 PM to TBD - St. Martha Catholic Church - 9221 Biscayne Boulevard - Miami Shores, FL 31338"
@@ -86,14 +86,14 @@ Screenshots of obituary from Stanfill Funeral Home, showing her full legal name 
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_jean_wright_obituary4.png" alt="drawing" width="768"/>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_jean_wright_obituary3.png" alt="drawing" width="768"/>
 
-- July 5, 2015: [Obituary from the Miami Herald](https://www.legacy.com/us/obituaries/herald/name/shirley-wright-obituary?id=12737429):<br>
+### July 5, 2015: [Obituary from the Miami Herald](https://www.legacy.com/us/obituaries/herald/name/shirley-wright-obituary?id=12737429):<br>
 "WRIGHT, SHIRLEY, Shirley, devoted daughter, 85, passed away July 1, 2015. She was born in Boston, MA and spent her childhood in Chicago, IL. As a teenager she moved to Miami Beach, where her parents built the Tropicaire Hotel, which she later operated for many years. She was a dedicated teacher and scientist, earning PhDs in Physical Chemistry and Physical Science. She was a chemistry professor at MDCC for over 50 years. She was a student of Dr. Albert Einstein at Princeton. Shirley taught at the University of Miami and Barry College and was also an instructor at JMH School of Nursing and Hialeah High School. She was the first female president of the MDCC Faculty Senate. She was a member of the Dominican Sisters Third Order. For over 50 years, Shirley donated scholarships to students for excellence in the sciences. A generous person, she supported many charities and helped friends in need. Mass of Christian Burial will be held at 1pm on Friday, July 10 at St. Martha Catholic Church, 9221 Biscayne Blvd., Miami Shores, FL 33138. Interment will follow at Flagler Memorial Park. In lieu of flowers, the family asks that contributions be made to St. Jude Children's Hospital in Shirley's memory."
 
 Screenshots of obituary from legacy.com, showing her name, birth/death dates, and condolences mentioning her name and that she was a chemistry instructor at the MDCC/MDC ([Miami Dade College](https://www.mdc.edu/about/)) (click for full-resolution):<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_wright_obituary2.png" alt="drawing" width="768"/>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_wright_obituary3.png" alt="drawing" width="768"/>
 
-- 2016: "Save the Tropicair: Stop Demolition of 880 71st Street"
+### 2016: "Save the Tropicair: Stop Demolition of 880 71st Street"
 
 change.org link:<br>
 https://www.change.org/p/estate-of-save-the-tropicair-stop-demolition-of-880-71st-street
@@ -104,7 +104,7 @@ Screenshot:<br>
 One of the sponsors was "Shirley Jean Wright Estate":<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/save_the_tropicair5.png" alt="drawing" width="768"/>
 
-- August 26, 2016: Video of the demolition of the Tropicair Hotel Miami Beach, by [Miami Herald Journalist Joey Flechas](https://www.facebook.com/joeyflechas):<br>
+### August 26, 2016: Video of the demolition of the Tropicair Hotel Miami Beach, by [Miami Herald Journalist Joey Flechas](https://www.facebook.com/joeyflechas):<br>
 https://www.youtube.com/watch?v=PZurCREHyZU
 
 Screenshot of video:<br>
