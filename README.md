@@ -35,6 +35,14 @@ https://www.newspapers.com/clip/100528586/tropicair-hotel-near-completiondr-shir
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_news_dec_21_1941_topicair_near_completion.png" alt="drawing" width="768"/>
 
+- 1942: Miami Beach Senior High School Class Yearbook Photo (full name with picture), section "7A-5", sources from Ancestry.com
+
+Zoomed in:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo.jpg" alt="drawing" width="512"/>
+
+Zoomed out:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo2.png" alt="drawing" width="512"/>
+
 - 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
 https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
 
@@ -58,14 +66,6 @@ https://www.mdc.edu/archives/assets/college_documents_page/9.underconstruction.p
 
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/mdcc_employee_listing.png" alt="drawing" width="768"/>
-
-- 1942: Miami Beach Senior High School Class Yearbook Photo (full name with picture), section "7A-5", sources from Ancestry.com
-
-Zoomed in:<br>
-<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo.jpg" alt="drawing" width="512"/>
-
-Zoomed out:<br>
-<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo2.png" alt="drawing" width="512"/>
 
 - July 1, 2015: [Obituary from the Stanfill Funeral Home](https://www.stanfillfh.com/tributes/Shirley-Wright), 10545 South Dixie Hwy, Miami, FL 33156:<br>
 "Welcome to the memorial page for Shirley Jean Wright August 19, 1929 ~ July 1, 2015 (age 85)"<br>
