@@ -12,6 +12,16 @@ She died on July 1, 2015 in Miami, FL. Sources: Miami Herald and Stanfill Funera
 
 ## Timeline of Evidence
 
+- Dec. 14, 1941 - Tropicair Hotel construction announced in the Miami Herald
+
+Newspapers.com clipping:
+https://www.newspapers.com/clip/100527880/dr-shirley-jean-wrights-parents-hotel/
+
+Screenshot:
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_14_dec_1941_tropicair_hotel_constructed_pic.png" alt="drawing" width="768"/>
+
+The hotel's address, "880 Everglades Concourse, Normandy Isle, Miami Beach" matches the adddress that appeared with Shirley Jean Wright's numerous newspaper and Florida Academy of Science listings. The names listed as the owners, Mr. and Mrs. Murray B. Wright (her parents), match Shirley Jean Wright's census records. The other co-owner, "A. Buckel", has the same last name as Shirley's mother (Marcella G. Buckel, 1894-1978) according to census records.
+
 - 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
 https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
 
