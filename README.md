@@ -61,6 +61,16 @@ https://www.newspapers.com/clip/100527364/dr-shirley-wrights-ms-thesis/
 Newspaper screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_5_jun_1955_master_of_science.png" alt="drawing" width="768"/>
 
+- Sept. 12 1973: "Membership List: Florida Academy of Sciences", Florida Scientist Vol. 36, No. 2/4 (Spring, Summer, Fall 1973), pp. 236-248 (13 pages)
+
+This reference lists her full name ("Shirley Jean Wright") and her address at "Tropicair Hotel, P.O. Box 4552, Miami Beach FL 33141"
+
+Link (see page 248):
+https://www.jstor.org/stable/24319475?read-now=1&seq=13
+
+Screenshot:
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/florida_academy_of_sciences.png" alt="drawing" width="768"/>
+
 - 1985: Miami-Dade College - "Under Construction - Twenty-Five Years of Miami-Dade Community College - 1960-1985" - Employee listing with her full name on page 201 (last page):<br>
 https://www.mdc.edu/archives/assets/college_documents_page/9.underconstruction.pdf<br>
 
