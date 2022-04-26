@@ -65,10 +65,10 @@ Newspaper screenshot:<br>
 
 This reference lists her full name ("Shirley Jean Wright") and her address at "Tropicair Hotel, P.O. Box 4552, Miami Beach FL 33141"
 
-Link (see page 248):
+Link (see page 248):<br>
 https://www.jstor.org/stable/24319475?read-now=1&seq=13
 
-Screenshot:
+Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/florida_academy_of_sciences.png" alt="drawing" width="768"/>
 
 - 1985: Miami-Dade College - "Under Construction - Twenty-Five Years of Miami-Dade Community College - 1960-1985" - Employee listing with her full name on page 201 (last page):<br>
