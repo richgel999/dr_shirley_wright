@@ -94,7 +94,7 @@ External link:
 https://eguides.barry.edu/ld.php?content_id=19604860
 
 Screenshot:<br>
-<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_oct_1947.png" alt="drawing" width="768"/>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_oct_1947.png" alt="drawing" width="512"/>
 
 ### Feb. 1951: "Angelicus" Barry College Newspaper, 'Campus Leaders Nominated To Collegiate "Who's Who"'
 
