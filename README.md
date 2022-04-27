@@ -170,7 +170,9 @@ The club's sponsor was "Miss Shirley Jean Wright". Here's the [Full PDF (see pag
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/hialeah_high_1964.png" alt="drawing" width="768"/>
 
-### 1962: "Quarterly journal of the Florida Academy of Sciences"
+### 1962: Quarterly journal of the Florida Academy of Sciences, vol 25-26
+
+Publisher: Gainesville, Florida Academy of Sciences
 
 See page 186 of 770:<br>
 https://archive.org/details/quarterlyjo2526196263flor/page/n185/mode/2up?q=%22Shirley+Jean+Wright%22
