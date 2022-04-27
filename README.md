@@ -19,7 +19,7 @@ She died on July 1, 2015 in Miami, FL. Sources: Miami Herald and Stanfill Funera
 
 ## Family Tree (A public tree on ancestry.com, search for "Shirley Jean Wright Family Tree")
 
-This tree shows her brother, her mother's full mainden name, and her father's name, along with birth/death dates from public records.
+This tree shows her brother, her mother's full maiden name, and her father's name, along with birth/death dates from public records.
 
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/family_tree.png" alt="drawing" width="512"/>
 
