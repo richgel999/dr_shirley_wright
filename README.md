@@ -76,10 +76,17 @@ Zoomed out:<br>
 
 ### Feb. 9, 1947: '32 Essay Winners Named'
 
-The newspapers.com [clipping](https://www.newspapers.com/clip/100536735/dr-shirley-jean-weight-essay-winner/).
+The newspapers.com [clipping](https://www.newspapers.com/clip/100536735/dr-shirley-jean-weight-essay-winner/). Notice it lists her full name and address at the Tropicair Hotel.
 
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_09_feb_1947_essay_winner.png" alt="drawing" width="768"/>
+
+### May 31, 1947: '4,000 to Receive Diplomas'
+
+The newspaper.com [clipping](https://www.newspapers.com/clip/100540158/dr-shirley-jean-wrights-high-school-gr/).
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_news_31_may_1947_diploma_pic.png" alt="drawing" width="768"/>
 
 ### Sept. 28, 1947: "Freshman Receive Scholarships"
 
