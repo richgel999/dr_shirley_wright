@@ -74,6 +74,13 @@ Zoomed in:<br>
 Zoomed out:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo2.png" alt="drawing" width="512"/>
 
+### Feb. 9, 1947: '32 Essay Winners Named'
+
+The newspapers.com [clipping](https://www.newspapers.com/clip/100536735/dr-shirley-jean-weight-essay-winner/).
+
+Screenshot:
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_09_feb_1947_essay_winner.png" alt="drawing" width="768"/>
+
 ### Sept. 28, 1947: "Freshman Receive Scholarships"
 
 The newspaper.com [clipping](https://www.newspapers.com/clip/100535669/dr-shirley-jean-wright-scholarship/).
