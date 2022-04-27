@@ -167,7 +167,7 @@ Newspaper screenshot:<br>
 
 Miss Shirley Jean Wright is acknowledged in the article on page 370 of 478:
 
-External link:
+External link:<br>
 https://archive.org/details/sim_circulation_1957-03_15_3/page/370/mode/2up?q=%22Shirley+Jean+Wright%22
 
 Screenshot:<br>
