@@ -103,7 +103,9 @@ https://eguides.barry.edu/ld.php?content_id=19604860
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_oct_1947.png" alt="drawing" width="512"/>
 
-### Jan 14, 1951
+### Jan 14, 1951: The Miami News 'Six Barry Students Honored'
+
+Majoring in biology and her minor is chemistry. Lists her full name and her address at the Tropicair Hotel:
 
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/whos_whos_jan14_1951.png" alt="drawing" width="512"/>
@@ -118,6 +120,10 @@ https://eguides.barry.edu/ld.php?content_id=19799688
 Screenshots:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_1.png" alt="drawing" width="512"/>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_2.png" alt="drawing" width="512"/>
+
+### April 29, 1951: 'Thirteen Local Students will Graduate at Barry'
+
+The newspaper.com [clipping](https://www.newspapers.com/clip/100540901/dr-shirley-jean-wright-graduating/).
 
 ### May, 1951: "Angelicus" Barry College Newspaper, 'Archbishop Hurley to Officiate At Graduation of 34 Seniors'
 
