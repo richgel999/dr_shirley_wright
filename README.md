@@ -81,6 +81,13 @@ The newspapers.com [clipping](https://www.newspapers.com/clip/100536735/dr-shirl
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_09_feb_1947_essay_winner.png" alt="drawing" width="768"/>
 
+### May 31, 1947: '4,000 to Receive Diplomas'
+
+The newspaper.com [clipping](https://www.newspapers.com/clip/100540158/dr-shirley-jean-wrights-high-school-gr/).
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_news_31_may_1947_diploma_pic.png" alt="drawing" width="768"/>
+
 ### Sept. 28, 1947: "Freshman Receive Scholarships"
 
 The newspaper.com [clipping](https://www.newspapers.com/clip/100535669/dr-shirley-jean-wright-scholarship/).
