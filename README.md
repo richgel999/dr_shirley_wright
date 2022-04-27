@@ -78,6 +78,16 @@ Screenshots:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_1.png" alt="drawing" width="512"/>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_2.png" alt="drawing" width="512"/>
 
+### May, 1951: "Angelicus" Barry College Newspaper, 'Archbishop Hurley to Officiate At Graduation of 34 Seniors'
+
+Here's the [local copy](https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_may_1951.pdf).
+
+External link:<br>
+https://eguides.barry.edu/ld.php?content_id=19799701
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_may_1951.png" alt="drawing" width="512"/>
+
 ### May 1952: "Angelicus" Barry College Newspaper, 'Marriage, Teaching Careers Most Popular with Class of 1951'
 
 Here's the [local copy](https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_may_1952.pdf).
