@@ -10,6 +10,13 @@ She was born on August 19, 1929 in Boston, MA, and spent her childhood in Chicag
 
 She died on July 1, 2015 in Miami, FL. Sources: Miami Herald and Stanfill Funeral Home obituaries.
 
+## Education Summary (Work in Progress)
+
+- Elementary School in Chicago (1940 US Census records: 4th grade)
+- St. Patrick's Senior High School, Miami Beach, appeared in 1942 yearbook, graduated in 1947, earned scholarship to Barry College
+- Barry College: Class of 1951, cum laude
+- University of Miami: Master of Science in Chemistry, 1955
+
 ## Family Tree (A public tree on ancestry.com, search for "Shirley Jean Wright Family Tree")
 
 This tree shows her brother, her mother's full mainden name, and her father's name, along with birth/death dates from public records.
@@ -59,7 +66,7 @@ https://www.newspapers.com/clip/100528586/tropicair-hotel-near-completiondr-shir
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_news_dec_21_1941_topicair_near_completion.png" alt="drawing" width="768"/>
 
-- 1942: Miami Beach Senior High School Class Yearbook Photo (full name with picture), section "7A-5", sources from Ancestry.com
+### 1942: Miami Beach Senior High School Class Yearbook Photo (full name with picture), section "7A-5", sources from Ancestry.com
 
 Zoomed in:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo.jpg" alt="drawing" width="512"/>
