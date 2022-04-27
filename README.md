@@ -163,6 +163,16 @@ https://www.newspapers.com/clip/100527364/dr-shirley-wrights-ms-thesis/
 Newspaper screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_5_jun_1955_master_of_science.png" alt="drawing" width="768"/>
 
+### 1957: Circulation 1957-03: Vol 15 Issue 3
+
+Miss Shirley Jean Wright is acknowledged in the article on page 370 of 478:
+
+External link:
+https://archive.org/details/sim_circulation_1957-03_15_3/page/370/mode/2up?q=%22Shirley+Jean+Wright%22
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/circulation_acknowledgement_1957.png" alt="drawing" width="768"/>
+
 ### Feb. 27, 1962: Hialeah High School's "Hialeah High Record", "Science Club Members Speak at Convention", Feb. 1962:
 
 The club's sponsor was "Miss Shirley Jean Wright". Here's the [Full PDF (see page 4)](https://github.com/richgel999/dr_shirley_wright/blob/main/HH_Record_February_27_1962.pdf).
