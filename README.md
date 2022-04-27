@@ -88,6 +88,14 @@ The newspaper.com [clipping](https://www.newspapers.com/clip/100535669/dr-shirle
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_sept_28_1947_scholarships3.png" alt="drawing" width="768"/>
 
+### Oct. 1947: "Floridians Receive Barry Scholarships"
+
+External link:
+https://eguides.barry.edu/ld.php?content_id=19604860
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_oct_1947.png" alt="drawing" width="768"/>
+
 ### Feb. 1951: "Angelicus" Barry College Newspaper, 'Campus Leaders Nominated To Collegiate "Who's Who"'
 
 Here's the [local copy](https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951.pdf).
