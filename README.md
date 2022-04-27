@@ -75,8 +75,8 @@ External link:<br>
 https://eguides.barry.edu/ld.php?content_id=19799688
 
 Screenshots:<br>
-<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_1.png" alt="drawing" width="768"/>
-<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_2.png" alt="drawing" width="768"/>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_1.png" alt="drawing" width="512"/>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951_2.png" alt="drawing" width="512"/>
 
 ### May 1952: "Angelicus" Barry College Newspaper, 'Marriage, Teaching Careers Most Popular with Class of 1951'
 
@@ -86,7 +86,7 @@ External link:<br>
 https://eguides.barry.edu/ld.php?content_id=19799742
 
 Screenshot:<br>
-<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_may_1952.png" alt="drawing" width="768"/>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_may_1952.png" alt="drawing" width="512"/>
 
 ### 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
 https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
