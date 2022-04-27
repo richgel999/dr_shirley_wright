@@ -202,6 +202,15 @@ Screenshots of obituary from legacy.com, showing her name, birth/death dates, an
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_wright_obituary2.png" alt="drawing" width="768"/>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/shirley_wright_obituary3.png" alt="drawing" width="768"/>
 
+### July 2015: Gravestone at Flagler Park (5301 W Flagler St, Miami, FL)
+
+External [link](https://billiongraves.com/grave/Shirley-Jean-Wright/31371215).
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/dr_shirley_jean_wright_gavestone_flagler_park.jpg" alt="drawing" width="512"/>
+
+This gravestone is also physically located next to her parents' gravestones, which show the correct middle names and birth/death dates.
+
 ### 2016: "Save the Tropicair: Stop Demolition of 880 71st Street"
 
 change.org link:<br>
