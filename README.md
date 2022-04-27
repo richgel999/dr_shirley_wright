@@ -170,6 +170,11 @@ The club's sponsor was "Miss Shirley Jean Wright". Here's the [Full PDF (see pag
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/hialeah_high_1964.png" alt="drawing" width="768"/>
 
+### 1969: "Miami-Dade College North Campus directory 1969 - Department of Chemistry"
+
+From ancestroy.com's archives:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/mdcc_dept_of_chemistry.png" alt="drawing" width="768"/>
+
 ### Sept. 12 1973: "Membership List: Florida Academy of Sciences", Florida Scientist Vol. 36, No. 2/4 (Spring, Summer, Fall 1973), pp. 236-248 (13 pages)
 
 This reference lists her full name ("Shirley Jean Wright") and her address at "Tropicair Hotel, P.O. Box 4552, Miami Beach FL 33141"
