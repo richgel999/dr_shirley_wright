@@ -76,7 +76,7 @@ Zoomed out:<br>
 
 ### Feb. 9, 1947: '32 Essay Winners Named'
 
-The newspapers.com [clipping](https://www.newspapers.com/clip/100536735/dr-shirley-jean-weight-essay-winner/).
+The newspapers.com [clipping](https://www.newspapers.com/clip/100536735/dr-shirley-jean-weight-essay-winner/). Notice it lists her full name and address at the Tropicair Hotel.
 
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_09_feb_1947_essay_winner.png" alt="drawing" width="768"/>
