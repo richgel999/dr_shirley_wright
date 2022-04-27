@@ -209,7 +209,8 @@ External [link](https://billiongraves.com/grave/Shirley-Jean-Wright/31371215).
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/dr_shirley_jean_wright_gavestone_flagler_park.jpg" alt="drawing" width="512"/>
 
-This gravestone is also physically located next to her parents' gravestones, which show the correct middle names and birth/death dates.
+This gravestone is also physically located next to her parents' gravestones, which show the correct middle names and birth/death dates:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/nearby_graves.png" alt="drawing" width="768"/>
 
 ### 2016: "Save the Tropicair: Stop Demolition of 880 71st Street"
 
