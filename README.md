@@ -74,6 +74,13 @@ Zoomed in:<br>
 Zoomed out:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/high_school_yearbook_photo2.png" alt="drawing" width="512"/>
 
+### Sept. 28, 1947: "Freshman Receive Scholarships"
+
+The newspaper.com [clipping](https://www.newspapers.com/clip/100535669/dr-shirley-jean-wright-scholarship/).
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_sept_28_1947_scholarships3.png" alt="drawing" width="768"/>
+
 ### Feb. 1951: "Angelicus" Barry College Newspaper, 'Campus Leaders Nominated To Collegiate "Who's Who"'
 
 Here's the [local copy](https://github.com/richgel999/dr_shirley_wright/blob/main/angelicus_barry_college_feb_1951.pdf).
