@@ -88,9 +88,9 @@ The newspaper.com [clipping](https://www.newspapers.com/clip/100535669/dr-shirle
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_sept_28_1947_scholarships3.png" alt="drawing" width="768"/>
 
-### Oct. 1947: "Floridians Receive Barry Scholarships"
+### Oct. 1947: "Angelicus" Barry College Newspaper, 'Floridians Receive Barry Scholarships'
 
-External link:
+External link:<br>
 https://eguides.barry.edu/ld.php?content_id=19604860
 
 Screenshot:<br>
