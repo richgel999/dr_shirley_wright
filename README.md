@@ -1,6 +1,6 @@
 # Dr. Shirley Jean Wright PhD - 8/19/1929 - 7/1/2015
 
-This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD, a student of Dr. Albert Einstein at Princeton, NJ in the Summer of 1947.
+This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD, a student of Dr. Albert Einstein at Princeton, NJ in the Summer of 1947. She would have been 17 years, 10 months, 18 days old in July 7, 1947.
 
 ## Basics: Full Name, Birth Date/Location and Death Date/Location
 
