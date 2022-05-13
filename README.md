@@ -1,6 +1,6 @@
 # Dr. Shirley Jean Wright PhD - 8/19/1929 - 7/1/2015
 
-This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD, a student of Dr. Albert Einstein at Princeton, NJ in the Summer of 1947.
+This repo contains public record evidence showing the academic and educational accomplishments of Dr. Shirley Jean Wright PhD, a student of Dr. Albert Einstein at Princeton, NJ in the Summer of 1947. She would have been 17 years, 10 months, 18 days old in July 7, 1947.
 
 ## Basics: Full Name, Birth Date/Location and Death Date/Location
 
@@ -19,7 +19,7 @@ She died on July 1, 2015 in Miami, FL. Sources: Miami Herald and Stanfill Funera
 
 ## Family Tree (A public tree on ancestry.com, search for "Shirley Jean Wright Family Tree")
 
-This tree shows her brother, her mother's full mainden name, and her father's name, along with birth/death dates from public records.
+This tree shows her brother, her mother's full maiden name, and her father's name, along with birth/death dates from public records.
 
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/family_tree.png" alt="drawing" width="512"/>
 
@@ -162,6 +162,16 @@ https://www.newspapers.com/clip/100527364/dr-shirley-wrights-ms-thesis/
 
 Newspaper screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/miami_herald_5_jun_1955_master_of_science.png" alt="drawing" width="768"/>
+
+### 1957: Circulation 1957-03: Vol 15 Issue 3
+
+Miss Shirley Jean Wright is acknowledged in the article on page 370 of 478:
+
+External link:<br>
+https://archive.org/details/sim_circulation_1957-03_15_3/page/370/mode/2up?q=%22Shirley+Jean+Wright%22
+
+Screenshot:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/circulation_acknowledgement_1957.png" alt="drawing" width="768"/>
 
 ### Feb. 27, 1962: Hialeah High School's "Hialeah High Record", "Science Club Members Speak at Convention", Feb. 1962:
 
