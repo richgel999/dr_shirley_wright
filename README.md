@@ -4,6 +4,8 @@ This repo contains public record evidence showing the academic and educational a
 
 ## Basics: Full Name, Birth Date/Location and Death Date/Location
 
+Dr. Wright's MS thesis [Vita](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_vita.pdf) contains all the basic information, which I've verified using official records, newspaper articles, and student papers.
+
 Her full legal name was "Shirley Jean Wright". The sources for her middle name are numerous: Her [Stanfill Funeral Home obituary](https://www.stanfillfh.com/tributes/Shirley-Wright), this is the full name+middle name recorded on her [gavestone at Flagler Memorial Park](https://billiongraves.com/grave/Shirley-Jean-Wright/31371215), numerous Miami Herald newspaper references mentioning her full-name and her address at the [Tropicair Hotel](https://www.change.org/p/estate-of-save-the-tropicair-stop-demolition-of-880-71st-street), [Barry College](https://en.wikipedia.org/wiki/Barry_University#Beginnings) [student newspapers](https://eguides.barry.edu/c.php?g=456648&p=3122505), [faculty references](https://www.mdc.edu/archives/assets/college_documents_page/9.underconstruction.pdf), [her chemistry M.S. dissertation](https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html), [Florida Academy of Sciences Vol. 36 Fall 1973](https://www.jstor.org/stable/24319475?read-now=1&seq=13) list mentioning her full name+middle name and her address at the Tropicair Hotel, etc. 
 
 She was born on August 19, 1929 in Boston, MA, and spent her childhood in Chicago, IL before moving to Miami Beach, FL and attending school at [St. Patrick's Catholic School](https://stpatrickmiamibeach.com/school/history/) in 1942-1947. Sources: obituary, newspaper records, 1930 and 1940 United States Federal Census records, school yearbook picture with her full name.
@@ -147,6 +149,11 @@ Screenshot:<br>
 
 ### 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
 https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
+
+Scanned July 1955 MS thesis:
+ - [Vita](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_vita.pdf)
+ - [Cover and Table of Contents](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_cover_toc.pdf)
+ - [First Chapter](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapter_1.pdf)
 
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis.png" alt="drawing" width="512"/>
