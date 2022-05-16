@@ -4,7 +4,7 @@ This repo contains public record evidence showing the academic and educational a
 
 ## Basics: Full Name, Birth Date/Location and Death Date/Location
 
-Dr. Wright's chemistry 1955 MS thesis [Vita](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_vita.pdf) contains all the basic information we need to verify that we've got the right person. Right here we can see that right after graduating high school she started at Barry College (with a scholarship according to newspaper records) in Sept. 1947:<br>
+Dr. Wright's chemistry [1955 MS thesis Vita](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_vita.pdf) contains all the basic information we need to verify that we've got the right person. Right here we can see that right after graduating high school she started at Barry College (with a scholarship according to newspaper records) in Sept. 1947:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_vita_pic.png" alt="drawing" width="512"/>
 
 Using this information it's easy to use official records, newspaper articles, student papers, and genealogical records to find information on Dr. Wright.
