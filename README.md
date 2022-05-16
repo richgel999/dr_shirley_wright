@@ -155,8 +155,8 @@ Here's her scanned July 1955 MS thesis. Sam (a library grad student at Drexel) r
 The book itself:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_pic.jpg" alt="drawing" width="512"/>
 
-The book had physical pictures inside it:
-<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/ms_physical_pic.jpg" alt="drawing" width="512"/>
+The book had physical pictures inside it:<br>
+<img src="https://github.com/richgel999/dr_shirley_wright/blob/main/ms_physical_pic.png" alt="drawing" width="512"/>
 
 The scans:<br>
  - [Vita](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_vita.pdf)
