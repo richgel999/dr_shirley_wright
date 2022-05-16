@@ -153,7 +153,7 @@ Screenshot:<br>
 ### 1955: Wright, Shirley Jean [M.S. Thesis](https://en.wikipedia.org/wiki/Master%27s_degree) "The solvolysis of butyl bromide in methanol-water mixtures":<br>
 https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
 
-Here's her scanned July 1955 MS thesis. [Sam](https://twitter.com/elf_whatever) (a library grad student at Drexel) requested it from the University of Miami library. It was sent in physical form to the "library at penn" and manually scanned by him using a phone instead of a scanner because the pages were very fragile.
+Here's her scanned July 1955 MS thesis. [Sam](https://twitter.com/elf_whatever) (a library grad student at Drexel) requested it from the University of Miami library. It was sent in physical form to the library at the University of Pennsylvania and manually scanned by him using a phone instead of a scanner because the pages were very fragile.
 
 The book itself:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_pic.jpg" alt="drawing" width="384"/>
