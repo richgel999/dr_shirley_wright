@@ -153,7 +153,11 @@ https://chemistry.as.miami.edu/graduate/graduate-dissertations/index.html
 Scanned July 1955 MS thesis:
  - [Vita](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_vita.pdf)
  - [Cover and Table of Contents](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_cover_toc.pdf)
- - [First Chapter](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapter_1.pdf)
+ - [Chapter 1](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapter_1.pdf)
+ - [Chapter 2-3 Part 1](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapters_2_3_part1.pdf)
+ - [Chapter 3 Part 2](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapter_3_part2.pdf)
+ - [Chapter 4](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapter_4.pdf)
+ - [Literature and Appendix](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_literature_appendix.pdf) 
 
 Screenshot:<br>
 <img src="https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis.png" alt="drawing" width="512"/>
