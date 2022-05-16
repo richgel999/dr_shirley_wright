@@ -156,7 +156,7 @@ Scanned July 1955 MS thesis:
  - [Chapter 1](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapter_1.pdf)
  - [Chapter 2-3 Part 1](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapters_2_3_part1.pdf)
  - [Chapter 3 Part 2](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapter_3_part2.pdf)
- - [Chapter 4](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_chapter_4.pdf)
+ - [Chapter 4 - Conclusions and Summary](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_conclusions_and_summary.pdf)
  - [Literature and Appendix](https://github.com/richgel999/dr_shirley_wright/blob/main/ms_thesis_literature_appendix.pdf) 
 
 Screenshot:<br>
